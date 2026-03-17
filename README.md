@@ -1,8 +1,6 @@
 # 📍 배지현입니다
 
-### 방문자 수 [![Hits](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fjihyeon0930&label=Visitors&icon=github&color=1f6feb&message=1)](https://hitscounter.dev)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jihyeon0930&count_bg=%2376FB11&title_bg=%23198BD7&icon=github.svg&icon_color=%23000000&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fjihyeon0930&label=Visitors&icon=github&color=1f6feb&message=1)](https://hitscounter.dev)
 
 ### Get in Touch
 
